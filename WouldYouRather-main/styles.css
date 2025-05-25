@@ -1,9 +1,13 @@
 background {
     background-color: rgb(246, 224, 255);
 }
-.BottomBanner {
+.Main {
     background-color: rgb(255, 184, 253);
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .TopBanner {
-    background-color: rgb(255, 184, 253);
+    text-align: center;
 }
