@@ -1,5 +1,12 @@
-background {
-    background-color: rgb(246, 224, 255);
+body {
+    background-color: rgb(246, 222, 255);
+}
+.FeaturedWUR {
+    background-color: rgb(244, 148, 255);
+    border: 4px dashed white;
+    display: inline-block;
+    padding: 10px;
+    width: 400px;
 }
 .Main {
     background-color: rgb(255, 184, 253);
